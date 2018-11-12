@@ -6,4 +6,11 @@ Data access layer of cryptocurrency trading platforms, such as Huobi, BitMEX, et
 * Minimize package dependency among modules;
 * Ease of use.
 
+# Install
+```
+pip install git+https://github.com/aviatorBeijing/CryptoMarketDataApi.git#subdirectory=src
+```
+
+
+
 
